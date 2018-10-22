@@ -4,9 +4,9 @@ Underground Mancala League's Server. Web app for running mancala bots competitio
 
 ## Features
 
-* All vs All league
-* 1 vs 1 Match
-* Automatic compilation
+* All vs All league.
+* 1 vs 1 Match.
+* Automatic compilation.
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them.
 
 ```shell
 git clone https://github.com/AlvaroGarciaJaen/mancala-league.git
@@ -37,7 +37,7 @@ pip install -r requirements.dev.txt
 
 #### Deployment notes
 
-For just deploying purposes use **requirements.txt** instead
+For just deploying purposes use **requirements.txt** instead.
 
 ### Running
 
@@ -61,9 +61,9 @@ flake8 app
 
 ## Built With
 
-* [Flask](http://flask.pocoo.org/) - The web framework used
-* [Pandas](https://pandas.pydata.org/) - Data processing module used
-* [Schedule](https://github.com/dbader/schedule) - Job scheduling module used
+* [Flask](http://flask.pocoo.org/) - The web framework used.
+* [Pandas](https://pandas.pydata.org/) - Data processing module used.
+* [Schedule](https://github.com/dbader/schedule) - Job scheduling module used.
 
 ## Authors
 
@@ -72,9 +72,9 @@ flake8 app
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-* Mancala simulator and interface thanks to [DECSAI](https://decsai.ugr.es/)
+* Mancala simulator and interface thanks to [DECSAI](https://decsai.ugr.es/).
 
